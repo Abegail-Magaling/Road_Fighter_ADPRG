@@ -1,0 +1,12 @@
+﻿  AC9_shop.cpp
+C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'AC9_shop.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\GDADPRG-SFML\AC9_shop.cpp(330,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\GDADPRG-SFML\AC9_shop.cpp(370,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\GDADPRG-SFML\AC9_shop.cpp(369,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  GDADPRG-SFML.vcxproj -> C:\Users\enama\Documents\SFML\Source\repos\GDADPRG-SFML-SHOP\Debug\GDADPRG-SFML.exe
